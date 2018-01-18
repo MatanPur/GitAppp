@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  GitApp
-//
-//  Created by מתןפור on 18.1.2018.
-//  Copyright © 2018 com.MatanPur. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
