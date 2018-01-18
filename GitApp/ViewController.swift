@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     }
 
     private func first(){
-        
+        print("hey")
     }
 
 }
